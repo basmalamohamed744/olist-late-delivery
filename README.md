@@ -3,7 +3,7 @@
 Predicts, at purchase time, whether an e-commerce order will arrive after its estimated delivery date, so operations can warn customers and chase carriers early.
 
 🔗 **Live app:** https://olist-late-delivery-xbkbh4tbpben3xq2nf4gm9.streamlit.app
-
+📓 **Notebook:** [olist_late_delivery.ipynb](olist_late_delivery.ipynb)
 ![App screenshot](screenshot.png)
 
 ## Results
