@@ -4,7 +4,7 @@ Predicts, at purchase time, whether an e-commerce order will arrive after its es
 
 🔗 **Live app:** https://olist-late-delivery-xbkbh4tbpben3xq2nf4gm9.streamlit.app
 📓 **Notebook:** [olist_late_delivery.ipynb](olist_late_delivery.ipynb)
-![App screenshot](screenshot.png)
+![App screenshot](Screenshot.png)
 
 ## Results
 
