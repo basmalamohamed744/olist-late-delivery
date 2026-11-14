@@ -7,7 +7,7 @@ from datetime import date, timedelta
 
 st.set_page_config(page_title="Late Delivery Risk", page_icon="📦", layout="wide")
 
-ART = "artifacts/"
+ART = ""
 
 
 @st.cache_resource
